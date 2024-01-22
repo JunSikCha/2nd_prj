@@ -1,6 +1,6 @@
-# My Car
+# RestArea
 
-자동차 정비 예약 시스템
+고속도로 휴게소 정보 웹 사이트
 
 ## Front end
 
